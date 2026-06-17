@@ -54,13 +54,6 @@ Runtime Video Recorder (RVR) is a production-ready Unreal Engine solution that e
 
 ---
 
-## Installation
-1. Download from [Google Disk](https://drive.google.com/drive/folders/1vv2RanJ07J2719C7mW-6G6-fQ_oTK391?usp=drive_link)
-2. Follow [README](https://docs.google.com/document/d/1f9RaY4R70p-AkX3P68co_NG3qvLvSPHDur4j6os_gGY/edit?usp=drive_link)
-3. Regenerate project files (right-click `.uproject` → Generate Visual Studio project files)
-4. Compile the project
-5. Enable the plugin in the editor (Edit → Plugins)
-
 ### Dependencies
 
 The plugin automatically enables these required plugins:

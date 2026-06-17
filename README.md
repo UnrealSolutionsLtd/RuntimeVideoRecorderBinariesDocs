@@ -119,7 +119,7 @@ The plugin includes sample content in the `Content` folder:
 ## Support & Resources
 
 - **Support Discord:** [Join Community](https://discord.com/invite/pBDSCBcdgv)
-- **Developer:** [Unreal Solutions](https://unrealsolutions.com)
+- **Developer:** [Unreal Solutions](https://unrealsolutions.com?utm_medium=social&utm_source=github)
 
 ---
 

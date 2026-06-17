@@ -7,9 +7,9 @@ Runtime Video Recorder (RVR)
 
 ---
 
-## Documentation
+## Installation
 
-Please go to the official website [page](https://unrealsolutions.com/docs/products/runtime-video-recorder/).
+Please go to the official website [page](https://unrealsolutions.com/docs/products/runtime-video-recorder/installation.html).
 
 ## Overview
 

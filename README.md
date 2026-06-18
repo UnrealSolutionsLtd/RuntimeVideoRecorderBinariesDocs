@@ -7,9 +7,10 @@ Runtime Video Recorder (RVR)
 
 ---
 
-## Installation & Downloading
+## How to download
 
-Please go to the official website [page](https://unrealsolutions.com/docs/products/runtime-video-recorder/installation.html). Please download the latest version of RVR [here](https://github.com/UnrealSolutionsLtd/RuntimeVideoRecorderBinariesDocs/releases).
+Download the latest version of RVR [here](https://github.com/UnrealSolutionsLtd/RuntimeVideoRecorderBinariesDocs/releases).
+Go to the official website [page](https://unrealsolutions.com/docs/products/runtime-video-recorder/installation.html) for installation guidance.
 
 ## Overview
 

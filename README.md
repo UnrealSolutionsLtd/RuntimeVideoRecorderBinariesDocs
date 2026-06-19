@@ -2,9 +2,6 @@
 
 ![Version](https://img.shields.io/badge/version-2.1-blue.svg)
 ![UE5](https://img.shields.io/badge/Unreal%20Engine-5.3%2B-informational.svg)
-
-**High-performance video recording plugin for Unreal Engine**
-
 ---
 
 ## How to download
